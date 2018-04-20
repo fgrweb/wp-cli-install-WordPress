@@ -9,6 +9,8 @@ echo " Pulsa una tecla para continuar..."
 read
 
 # Usuario de WordPress
+echo "Bien, ¡vamos allá!"
+echo ""
 echo "Usuario de WordPress: "
 read -e wpuser
 # Nombre de la base de datos
