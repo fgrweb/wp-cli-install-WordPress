@@ -5,6 +5,8 @@ clear
 echo "================================================================="
 echo "            ¡¡El ultra-instalador de WordPress!!"
 echo "================================================================="
+echo " Pulsa una tecla para continuar..."
+read
 
 # Usuario de WordPress
 echo "Usuario de WordPress: "
