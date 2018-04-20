@@ -1,5 +1,5 @@
 
-# Archivo bash para hacer una instalación de WordPress a través de WP-CLI
+#Archivo bash para hacer una instalación de WordPress a través de WP-CLI
 
 Ejecutar el archivo "wpinstall.sh" en el directorio donde se desee instalar WordPress.
 Previamente se habrá creado la base de datos, con un usuario con privilegios.
